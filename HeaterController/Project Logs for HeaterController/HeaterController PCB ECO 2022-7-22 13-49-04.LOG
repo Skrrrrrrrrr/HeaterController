@@ -1,0 +1,4 @@
+Change Component Comment : Designator=D2 Old Comment=1N5822 New Comment=6A0
+Change Component Comment : Designator=D1 Old Comment=1N5822 New Comment=6A10
+Added Pin To Net: NetName=GND Pin=XS1-6
+Added Room: Name=HeaterController
