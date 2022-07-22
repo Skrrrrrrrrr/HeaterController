@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ2_1 Pin=XS1-1
+Removed Pin From Net: NetName=NetJ4_2 Pin=XS1-6
+Added Pin To Net: NetName=NetJ4_2 Pin=XS1-1
+Added Pin To Net: NetName=NetJ2_1 Pin=XS1-3
+Added Room: Name=HeaterController

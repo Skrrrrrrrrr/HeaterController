@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=12V-
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=12V+
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=GND
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=24V+
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=Vin
+Added Room: Name=HeaterController
